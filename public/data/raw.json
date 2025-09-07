@@ -1,0 +1,4 @@
+[
+  { "name": "Iron ore pellet (IOP)", "unit": "ton", "price_per_unit_inr": 8000, "ef_tco2_per_unit": 0.137 },
+  { "name": "Limestone", "unit": "ton", "price_per_unit_inr": 1500, "ef_tco2_per_unit": 0.005 }
+]

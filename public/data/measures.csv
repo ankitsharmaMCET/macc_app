@@ -1,0 +1,96 @@
+id,name,sector,abatement_tco2,cost_per_tco2,selected,details
+1,Increasing PCI rate,Steel,2230000,-142,true,{"mode":"quick"}
+2,COG use in DRI production,Steel,8740000,-132,true,{"mode":"quick"}
+3,Mullite-based kiln lining,Steel,675000,-43,true,{"mode":"quick"}
+4,Efficient blower for kilns,Steel,125000,-24,true,{"mode":"quick"}
+5,WHR power,Steel,1500000,-19,true,{"mode":"quick"}
+6,Scrap pretreatment system for IF,Steel,200000,23,true,{"mode":"quick"}
+7,High quality imported coal use,Steel,5000000,23,true,{"mode":"quick"}
+8,Coal-based CPP/grid to RE,Steel,19375000,25,true,{"mode":"quick"}
+9,Coal-based CPP/grid to RE,Steel,20340000,41,true,{"mode":"quick"}
+10,DRI char WHR power,Steel,875000,46,true,{"mode":"quick"}
+11,CCS,Steel,36900000,94,true,{"mode":"quick"}
+12,NG injection in BF,Steel,6780000,97,true,{"mode":"quick"}
+13,CCS,Steel,110700000,101,true,{"mode":"quick"}
+14,CCU,Steel,24790000,160,true,{"mode":"quick"}
+15,Carbon offset (afforestation),Steel,23640000,160,true,{"mode":"quick"}
+16,CCU,Steel,7525000,472,true,{"mode":"quick"}
+17,Carbon offset (afforestation),Steel,27605000,533,true,{"mode":"quick"}
+18,Alumina energy efficiency,Aluminium,5000000,-70,true,{"mode":"quick"}
+19,Aluminium energy efficiency,Aluminium,2000000,-15,true,{"mode":"quick"}
+20,Electrolysis off gas WHR,Aluminium,500000,-2,true,{"mode":"quick"}
+21,Fuel switch: Biomass,Aluminium,2000000,20,true,{"mode":"quick"}
+22,Retrofit with inert anodes,Aluminium,5000000,22,true,{"mode":"quick"}
+23,Cell operation optimisation,Aluminium,2000000,40,true,{"mode":"quick"}
+24,Renewable electricity use,Aluminium,38000000,60,true,{"mode":"quick"}
+25,CCS,Aluminium,8000000,95,true,{"mode":"quick"}
+26,Fuel switching to NG,Aluminium,4000000,215,true,{"mode":"quick"}
+27,CCU,Aluminium,10000000,490,true,{"mode":"quick"}
+28,Offset,Aluminium,500000,491,true,{"mode":"quick"}
+29,Efficient electrical equipment,Cement,2000000,-43,true,{"mode":"quick"}
+30,Waste heat recovery,Cement,8000000,-42,true,{"mode":"quick"}
+31,Automation system,Cement,4000000,-41,true,{"mode":"quick"}
+32,Efficient grinding system,Cement,5000000,-36,true,{"mode":"quick"}
+33,Optimising auxiliary power,Cement,1000000,-34,true,{"mode":"quick"}
+34,Increasing slag to 70% in PSC,Cement,5000000,-30,true,{"mode":"quick"}
+35,Enhancement in Kiln,Cement,3000000,-28,true,{"mode":"quick"}
+36,Heat rate reduction in CPP,Cement,2000000,-26,true,{"mode":"quick"}
+37,Improving burnability of material,Cement,7000000,-13,true,{"mode":"quick"}
+38,Burner retrofit,Cement,1000000,-12,true,{"mode":"quick"}
+39,High efficiency clinker coolers,Cement,3000000,-10,true,{"mode":"quick"}
+40,Substitute OPC with LC3 cement,Cement,4000000,-8,true,{"mode":"quick"}
+41,Increasing fly ash to 35% in PPC,Cement,10000000,-7,true,{"mode":"quick"}
+42,Renewable energy use in electricity,Cement,8000000,18,true,{"mode":"quick"}
+43,Increasing TSR to 30% in kiln fuel,Cement,18000000,42,true,{"mode":"quick"}
+44,CCS,Cement,60000000,90,true,{"mode":"quick"}
+45,Decreasing clinker to 85% in OPC,Cement,5000000,120,true,{"mode":"quick"}
+46,CCU,Cement,60000000,186,true,{"mode":"quick"}
+47,Offset,Cement,12000000,188,true,{"mode":"quick"}
+48,COST SAVING EE(urea),Fertilizer,1300000,-63.9,true,{"mode":"quick"}
+49,RE(DAP),Fertilizer,600000,45,true,{"mode":"quick"}
+50,RE(OCF),Fertilizer,400000,45,true,{"mode":"quick"}
+51,EXPENSE DRIVEN EE(urea),Fertilizer,1200000,49.6,true,{"mode":"quick"}
+52,CCS(OCF),Fertilizer,130000,90,true,{"mode":"quick"}
+53,CCS(DAP),Fertilizer,6000,90,true,{"mode":"quick"}
+54,green ammonia(DAP),Fertilizer,2000000,160,true,{"mode":"quick"}
+55,green ammonia(OCF),Fertilizer,5100000,160,true,{"mode":"quick"}
+56,green ammonia(urea),Fertilizer,30000000,270,true,{"mode":"quick"}
+57,Energy-efficient machinery,Textile,758270, -57.39869131,true,{"mode":"quick"}
+58,Energy-efficient polymerization,Textile,758270,-45.91895305,true,{"mode":"quick"}
+59,Waste heat recovery systems,Textile,252757,-22.95947652,true,{"mode":"quick"}
+60,Water and chemical optimization,Textile,379135,-11.47973826,true,{"mode":"quick"}
+61,Water and Chemical Optimization,Textile,63189,-11.47973826,true,{"mode":"quick"}
+62,Use of renewable energy for electricity,Textile,5055134,0,true,{"mode":"quick"}
+63,Boiler efficiency improvement,Textile,151654,0,true,{"mode":"quick"}
+64,Renewable energy for manufacturing,Textile,7582701,0,true,{"mode":"quick"}
+65,Use of biomass for boiler fuel,Textile,2527567,5.739869131,true,{"mode":"quick"}
+66,Use of bio-based monomers,Textile,3791351,11.47973826,true,{"mode":"quick"}
+67,Use of Renewable Energy,Textile,631892,11.47973826,true,{"mode":"quick"}
+68,Carbon capture in production,Textile,3048080,57.39869131,true,{"mode":"quick"}
+69,Deep Eutectic Solvents (DES) Pulping,Paper & Pulp,3364855,-25.82941109,true,{"mode":"quick"}
+70,Increased Recycled Fiber Use,Paper & Pulp,4206069,-21.52450924,true,{"mode":"quick"}
+71,Membrane Filtration,Paper & Pulp,1577276,-17.21960739,true,{"mode":"quick"}
+72,Flash Condensing with Steam,Paper & Pulp,2628793,-8.609803696,true,{"mode":"quick"}
+73,Black Liquor Firing at Higher Concentration,Paper & Pulp,3154552,4.304901848,true,{"mode":"quick"}
+74,Small Hydro,Paper & Pulp,3680310,12.91470554,true,{"mode":"quick"}
+75,Functional Surface Technology,Paper & Pulp,2103034,25.82941109,true,{"mode":"quick"}
+76,Sustainable Forestry and Agroforestry,Paper & Pulp,4731828,34.43921479,true,{"mode":"quick"}
+77,Biogas from Effluent Treatment,Paper & Pulp,1892731,43.04901848,true,{"mode":"quick"}
+78,Supercritical CO2 Drying,Paper & Pulp,3154552,51.65882218,true,{"mode":"quick"}
+79,Energy efficiency improvements,Petrochemicals,8160147,-57.39869131,true,{"mode":"quick"}
+80,Waste heat recovery systems,Petrochemicals,3250790,-34.43921479,true,{"mode":"quick"}
+81,Process optimization,Petrochemicals,4080073,-28.69934565,true,{"mode":"quick"}
+82,Use of renewable energy,Petrochemicals,22224790,11.47973826,true,{"mode":"quick"}
+83,Switching to low-carbon feedstocks,Petrochemicals,16320294,22.95947652,true,{"mode":"quick"}
+84,Carbon capture and storage (CCS),Petrochemicals,40834392,57.39869131,true,{"mode":"quick"}
+85,Energy Efficiency Improvements,Refineries,6893946,-206.6352887,true,{"mode":"quick"}
+86,Process Optimization,Refineries,2611343,-22.95947652,true,{"mode":"quick"}
+87,Use of Renewable Energy,Refineries,4178149,0,true,{"mode":"quick"}
+88,Hydrogen Use,Refineries,10445373,34.43921479,true,{"mode":"quick"}
+89,Carbon Capture and Storage (CCS),Refineries,31336119,57.39869131,true,{"mode":"quick"}
+90,Fuel Switching,Refineries,14535707,106.7615658,true,{"mode":"quick"}
+91,Zero-gap technology,Chlor Alkali,480676,-71.7368844,true,{"mode":"quick"}
+92,Using hydrogen for steam production,Chlor Alkali,475563,-20.50281254,true,{"mode":"quick"}
+93,Switching to renewable energy,Chlor Alkali,4806761,-14.33819309,true,{"mode":"quick"}
+94,Oxygen-depolarized cathode (ODC) technology,Chlor Alkali,1442028,-10.68763632,true,{"mode":"quick"}
+95,Carbon capture and storage (CCS),Chlor Alkali,4795626,57.39869131,true,{"mode":"quick"}

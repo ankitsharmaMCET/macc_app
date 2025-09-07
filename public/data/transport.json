@@ -1,0 +1,4 @@
+[
+  { "name": "HGV | diesel", "unit": "000 ton-km", "price_per_unit_inr": 2000, "ef_tco2_per_unit": 0.110 },
+  { "name": "Rail | diesel", "unit": "000 ton-km", "price_per_unit_inr": 1200, "ef_tco2_per_unit": 0.035 }
+]

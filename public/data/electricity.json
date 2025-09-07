@@ -1,0 +1,5 @@
+[
+  { "state": "India", "unit": "MWh", "price_per_mwh": 500, "price_per_mwh_inr": 5000, "ef_tco2_per_mwh": 0.710 },
+  { "state": "Gujarat", "unit": "MWh", "price_per_mwh": 550, "ef_tco2_per_mwh": 0.650 },
+  { "state": "Tamil Nadu", "unit": "MWh", "price_per_mwh": 600, "ef_tco2_per_mwh": 0.820 }
+]

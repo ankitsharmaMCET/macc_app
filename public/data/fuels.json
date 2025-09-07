@@ -1,0 +1,6 @@
+[
+  { "name": "LNG", "unit": "ton", "price_per_unit_inr": 40000, "ef_tco2_per_unit": 2.559 },
+  { "name": "Diesel (100% mineral)", "unit": "ton", "price_per_unit_inr": 75000, "ef_tco2_per_unit": 3.209 },
+  { "name": "Natural gas", "unit": "MMBtu", "price_per_unit_inr": 800, "ef_tco2_per_unit": 0.0531 },
+  { "name": "Furnace oil", "unit": "ton", "price_per_unit_inr": 50000, "ef_tco2_per_unit": 3.114 }
+]

@@ -1,0 +1,4 @@
+[
+  { "name": "Water treatment", "unit": "million litres", "price_per_unit_inr": 50000, "ef_tco2_per_unit": 0.272 },
+  { "name": "Solid waste disposal", "unit": "ton", "price_per_unit_inr": 3000, "ef_tco2_per_unit": 0.001 }
+]
